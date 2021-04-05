@@ -1,0 +1,41 @@
+body{
+    background-color: yellowgreen;
+}
+
+header{
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: oblique;
+    text-align: center;
+    font-size: larger;
+
+}
+
+.container{
+    display: inline-block;
+    text-align: center;
+    height: 450px;
+    width: 40%;
+    margin-left:100px;
+}
+
+.container img{
+    height: 400px;
+    width: 400px;
+}
+
+
+
+
+footer p{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: unset;
+    text-align: center;
+    font-size: 30px;
+    vertical-align: middle;
+    line-height: 100px;
+}
+
+header nav{
+    font-family: cursive;
+}
